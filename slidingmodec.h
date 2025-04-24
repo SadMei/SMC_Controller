@@ -13,7 +13,7 @@ class SMC{
 	float u_max;//输出最大值
 	float J;//估计惯量
 	float angle; //角度反馈，°
-	float ang_vel;//角速度反馈，rad/s
+	float ang_vel;//角速度反馈，°/s
 	float epsilon;
 
 	float u;

@@ -33,7 +33,7 @@
 `YawSMC.ref = 你的角度目标;`
 ### （2）调用SMC计算器
 `YawSMC.SMC_Tick(angle_now,angle_vel);`  
-注意角度为°，角速度为rad/s
+注意角度为°，角速度为°/s
 ### （3）最后，输出电流
 `YourCanSendFunction(YawSMC.u);`
 ### tips:可能会存在正反馈的问题，建议检查反馈符号和输出电流的符号

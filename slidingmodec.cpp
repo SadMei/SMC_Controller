@@ -3,7 +3,7 @@
 
 SMC YawSMC(20, 120, 0, 0.001, 25000, 0.8, 0.5); //这是一个yaw轴参考电机参数
 
-void SMC::SMC_Tick(float angle_now,float angle_vel) //anlge为当前位置(°),ang_vel为角速度(rad/s)
+void SMC::SMC_Tick(float angle_now,float angle_vel) //anlge为当前位置(°),ang_vel为角速度(°/s)
 {
 	//读取参数
 	angle = angle_now;
