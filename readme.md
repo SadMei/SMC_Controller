@@ -1,6 +1,7 @@
 # 【2025-复旦大学-星云EGA】 云台Yaw轴滑模控制器开源
-<div align=center><img src="logo新_窄边.png" alt="logo新_窄边.png" style="zoom:20%;" />
-<img src="R.png" alt="R.png" style="zoom:20%;" /> </div>
+<div align=center><img src="附件/logo新_窄边.png" alt="附件/logo新_窄边.png" style="zoom:20%;" />
+<img src="附件/R.png" alt="附件/R.png" style="zoom:20%;" /> </div>
+
 
 ## 1.为什么选择滑模控制器？
 ### 1.1.初衷
@@ -15,7 +16,7 @@
 ### 1.2.效果
 星云EGA步兵机器人如下：以大疆robomaster开发板C型板载陀螺仪为反馈，云台电机为GM6020
 
-<div align=center><img src="1130751.jpg" alt="1130751.jpg" style="zoom:10%;"/></div>
+<div align=center><img src="附件/1130751.jpg" alt="附件/1130751.jpg" style="zoom:10%;"/></div>
 
 控制效果见附件视频1。
 
